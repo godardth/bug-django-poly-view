@@ -1,5 +1,6 @@
 # bug-django-poly-view
-Reproduction of an issue with Django polymorphic MPTT
+Reproduction of an issue with Django polymorphic MPTT.  
+https://github.com/django-polymorphic/django-polymorphic/issues/383
 
 ## Issue with
 ```
