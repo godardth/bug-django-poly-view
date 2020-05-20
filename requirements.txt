@@ -47,7 +47,7 @@ gprof2dot==2016.10.13
 -e git+git@bitbucket.org:fullplanner/gth-core.git@29f4f7ea99850498919c13644ab84b5f061fdd2e#egg=gth_core
 -e git+https://godardth:maCE12ku@bitbucket.org/fullplanner/gth-project@c830bf86aa2a9e6c2021613fe6f02332561a4c4a#egg=gth_project
 gunicorn==19.7.1
-httplib2==0.10.3
+httplib2==0.18.0
 hyperlink==18.0.0
 idna==2.6
 imagesize==1.0.0
