@@ -36,7 +36,7 @@ django-silk==3.0.1
 django-sphinxdoc==1.5.1
 django-tag-parser==3.1
 django-timezone-field==2.1
-djangorestframework==3.7.7
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 docutils==0.14
 freezegun==0.3.10
