@@ -75,7 +75,7 @@ pyasn1==0.4.2
 pyasn1-modules==0.2.1
 pycodestyle==2.4.0
 pycryptodomex==3.5.1
-Pygments==2.2.0
+Pygments==2.7.4
 pyjwkest==1.4.0
 PyJWT==1.6.0
 pyparsing==2.2.0
