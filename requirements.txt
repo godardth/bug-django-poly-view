@@ -3,7 +3,7 @@ appdirs==1.4.3
 asgiref==2.2.0
 async-timeout==2.0.1
 attrs==17.4.0
-autobahn==18.3.1
+autobahn==20.12.3
 Automat==0.6.0
 autopep8==1.4.2
 Babel==2.5.3
